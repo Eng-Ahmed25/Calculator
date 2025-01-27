@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/Eng-Ahmed25/Calculator",
   "name": "calc",
   "version": "0.1.0",
   "private": true,
@@ -6,10 +7,13 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^2.1.4",
+    "webpack": "^5.97.1"
   },
   "scripts": {
     "start": "react-scripts start",
